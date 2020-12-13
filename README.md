@@ -3,15 +3,16 @@ The analysis is to help training a machine using data from Alphabet Soup’s bus
 
 ## Data Preprocessing
 1. What variable(s) are considered the target(s) for your model? 
-The "IS SUCCESSFUL" column.
+
+  The "IS SUCCESSFUL" column.
 
 2. What variable(s) are considered to be the features for your model?
 
-All the other columns that survived preprocessing.
+  All the other columns that survived preprocessing.
 
 3. What variable(s) are neither targets nor features, and should be removed from the input data? 
 
-None
+  None
 
 ## Compiling, Training, and Evaluating the Model
 1. How many neurons, layers, and activation functions did you select for your neural network model, and why?  
