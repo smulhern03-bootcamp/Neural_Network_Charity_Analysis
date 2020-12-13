@@ -17,13 +17,16 @@ The analysis is to help training a machine using data from Alphabet Soup’s bus
 ## Compiling, Training, and Evaluating the Model
 1. How many neurons, layers, and activation functions did you select for your neural network model, and why?  
 
-Based upon the module, I used two hidden layers with 8 and 5 neurons repectively.
+Based upon the module, I used two hidden layers with 8 and 5 neurons repectively:
+
 ![original](https://github.com/smulhern03-bootcamp/Neural_Network_Charity_Analysis/blob/main/Layers%20and%20Neurons.PNG)
 
 This resulted in the following parameters:
+
 ![parameters](https://github.com/smulhern03-bootcamp/Neural_Network_Charity_Analysis/blob/main/Params.PNG)
 
 Which produced the following performance:
+
 ![performance](https://github.com/smulhern03-bootcamp/Neural_Network_Charity_Analysis/blob/main/Original%20Output.PNG)
 
 2. Were you able to achieve the target model performance? 
