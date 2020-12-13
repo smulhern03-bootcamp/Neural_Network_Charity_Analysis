@@ -21,7 +21,7 @@ Based upon the module, I used two hidden layers with 8 and 5 neurons repectively
 ![original](https://github.com/smulhern03-bootcamp/Neural_Network_Charity_Analysis/blob/main/Layers%20and%20Neurons.PNG)
 
 This resulted in the following parameters:
-![parameters](https://github.com/smulhern03-bootcamp/Neural_Network_Charity_Analysis/blob/main/Params.PNG
+![parameters](https://github.com/smulhern03-bootcamp/Neural_Network_Charity_Analysis/blob/main/Params.PNG)
 
 Which produced the following performance:
 ![performance](https://github.com/smulhern03-bootcamp/Neural_Network_Charity_Analysis/blob/main/Original%20Output.PNG)
