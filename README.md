@@ -3,7 +3,6 @@ The analysis is to help training a machine using data from Alphabet Soup’s bus
 
 ## Data Preprocessing
 1. What variable(s) are considered the target(s) for your model? 
-
 The "IS SUCCESSFUL" column.
 
 2. What variable(s) are considered to be the features for your model?
