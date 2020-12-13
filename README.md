@@ -8,10 +8,13 @@ The "IS SUCCESSFUL" column.
 *What variable(s) are considered to be the features for your model?
 All the other columns that survived preprocessing.
 
-*What variable(s) are neither targets nor features, and should be removed from the input data? None
+*What variable(s) are neither targets nor features, and should be removed from the input data? 
+None
 
 ## Compiling, Training, and Evaluating the Model
-How many neurons, layers, and activation functions did you select for your neural network model, and why?  Based upon the module, I used two hidden layers with 8 and 5 neurons repectively.
+How many neurons, layers, and activation functions did you select for your neural network model, and why?  
+
+Based upon the module, I used two hidden layers with 8 and 5 neurons repectively.
 ![original](https://github.com/smulhern03-bootcamp/Neural_Network_Charity_Analysis/blob/main/Layers%20and%20Neurons.PNG)
 
 This resulted in the following parameters:
@@ -20,9 +23,12 @@ This resulted in the following parameters:
 Which produced the following performance:
 ![performance](https://github.com/smulhern03-bootcamp/Neural_Network_Charity_Analysis/blob/main/Original%20Output.PNG)
 
-Were you able to achieve the target model performance? No.  75% performance was not achieved.  
+Were you able to achieve the target model performance? 
+
+No.  75% performance was not achieved.  
 
 What steps did you take to try and increase model performance?
+
 Three subsequent modifications were attempted to increase the performance.
 ![Added Layers and Neurons](https://github.com/smulhern03-bootcamp/Neural_Network_Charity_Analysis/blob/main/Added%20layers%20and%20neurons.PNG)
 ![Added layers and neurons results](https://github.com/smulhern03-bootcamp/Neural_Network_Charity_Analysis/blob/main/Added%20layers%20and%20neurons%20results.PNG)
