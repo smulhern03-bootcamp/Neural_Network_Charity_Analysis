@@ -19,7 +19,7 @@ The analysis is to help training a machine using data from Alphabet Soup’s bus
 
 Based upon the module, I used two hidden layers with 8 and 5 neurons repectively:
 
-![original](https://github.com/smulhern03-bootcamp/Images/Neural_Network_Charity_Analysis/blob/main/Layers%20and%20Neurons.PNG)
+![original](https://github.com/smulhern03-bootcamp/Neural_Network_Charity_Analysis/Images/blob/main/Layers%20and%20Neurons.PNG)
 
 This resulted in the following parameters:
 
